@@ -1,0 +1,34 @@
+#background {
+  background-color: #eee;
+}
+
+#restaurant {
+  text-align: center;
+  color: green;
+  font-size: 40px;
+  font-family: fantasy;
+
+
+}
+
+a {
+  margin: 10px;
+  font-size: 22px;
+  font-family: fantasy;
+
+}
+
+img {
+  margin-top: 20px;
+
+
+}
+
+p {
+  font-family: fantasy;
+  font-size: 18px;
+}
+
+footer {
+  text-align: center;
+}
