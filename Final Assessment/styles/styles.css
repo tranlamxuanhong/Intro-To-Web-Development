@@ -1,5 +1,5 @@
 #background {
-  
+
   width: 1200px;
   margin:auto;
 }
@@ -39,4 +39,11 @@ p {
 
 footer {
   text-align: center;
+}
+
+label {
+  text-align: right;
+  margin-right: 8px;
+  display: inline-block;
+  width: 300px;
 }
